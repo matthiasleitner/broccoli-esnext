@@ -57,7 +57,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "^0.1.10",
-    "esnext": "^0.13.0",
+    "esnext": "0.13.0",
     "inline-source-map-comment": "^1.0.0"
   },
   "devDependencies": {
